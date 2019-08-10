@@ -32,7 +32,7 @@
         // SE o array [checadosTrue] 
         // ******* CONTER ALGUM ITEM *****************
         // RETORNO OS ITEMS ARMAZENADOS
-        if (checadosTrue !='') console.log('Array com os inputs selecionados:', checadosTrue) //return checadosTrue;
+        if (checadosTrue !='') console.log('Array com os inputs selecionados:', checadosTrue);
         
         //SENÃO (APRESENTO MENSAGEM DE ERRO)
         else console.log('Array com os inputs não selecionados:', checadosFalse);
